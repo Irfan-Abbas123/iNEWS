@@ -1,4 +1,4 @@
-let apiKey = '';
+let apiKey = 'b99c6f083a7999528a08501328fd09cc';
 let newsAccordion = document.getElementById('newsAccordion');
 
 
